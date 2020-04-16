@@ -2,3 +2,5 @@ git是一个分布式版本控制系统
 git是GPL规范下的一个免费软件
 git有一个可变的索引称为stage
 git跟踪文件的修改
+
+feature1

@@ -4,3 +4,4 @@ git有一个可变的索引称为stage
 git跟踪文件的修改
 
 master and feature1
+分支管理策略修改

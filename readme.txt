@@ -3,4 +3,4 @@ git是GPL规范下的一个免费软件
 git有一个可变的索引称为stage
 git跟踪文件的修改
 
-master
+master and feature1
